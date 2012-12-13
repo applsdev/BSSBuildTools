@@ -3,10 +3,10 @@
 This is just a collection of various iOS project build automation tools that might useful to somebody.
 
 ### ios-build-script.sh
-Builds and signs an iOS application and tags the current git branch with the build number + commit hash (for more info visit http://www.blacksmithsoftware.com/blog/2012/03/31/build-automation-for-ios-projects-part-1/)
+Builds and signs an iOS application and tags the current git branch with the build number + commit hash (for more info visit http://www.blacksmithsoftware.com/blog/2012/03/31/build-automation-for-ios-projects-part-1)
 
 ### ios-jenkins-build-script.sh
-Simple shell script to be used within the Jenkins Continuous Integration Server that builds and signs an iOS application (for more info visit http://www.blacksmithsoftware.com/blog/2012/03/31/build-automation-for-ios-projects-part-2/)
+Simple shell script to be used within the Jenkins Continuous Integration Server that builds and signs an iOS application (for more info visit http://www.blacksmithsoftware.com/blog/2012/03/31/build-automation-for-ios-projects-part-2)
 
 ### distribution_remplate.rb
 Generates a HTML file from a template for enabling Over-the-air Ad-Hoc distribution. Uses distribution_template.html as it's default template
